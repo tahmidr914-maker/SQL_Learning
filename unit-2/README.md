@@ -31,6 +31,8 @@ The `customers` table contains information such as:
 - City
 - State
 - Points
+## SQL Files:
+SELECT Statements & Basic Queries.sql
 
 ## SQL Queries Practiced
 
@@ -40,5 +42,4 @@ The `customers` table contains information such as:
 SELECT *
 FROM customers;
 
-## SQL Files:
-SELECT Statements & Basic Queries.sql
+
