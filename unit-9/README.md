@@ -125,5 +125,4 @@ The completed queries successfully classified both orders and customers into thr
 
 **Script filename:**
 
-```text
 case_statements.sql
